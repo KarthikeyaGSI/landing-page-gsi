@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sustainabag | Eco Packaging</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="hero">
+    <h1>Sustainabag</h1>
+    <p>Redefining packaging with purpose. Zero waste. 100% impact.</p>
+    <a href="#cta" class="btn">Join the Movement</a>
+  </header>
+
+  <section class="features">
+    <div class="feature">
+      <h3>♻️ Biodegradable</h3>
+      <p>Crafted from plant-based materials for the circular economy.</p>
+    </div>
+    <div class="feature">
+      <h3>🚀 Scalable for Brands</h3>
+      <p>Enterprise-ready solutions with sustainable soul.</p>
+    </div>
+    <div class="feature">
+      <h3>🌍 Carbon Neutral</h3>
+      <p>Offset every bag. Zero footprint, maximum outcome.</p>
+    </div>
+  </section>
+
+  <section id="cta" class="cta">
+    <h2>Get Involved</h2>
+    <p>Drop your email and stay in the loop as we launch.</p>
+    <form>
+      <input type="email" placeholder="you@example.com" required />
+      <button type="submit">Subscribe</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Sustainabag. Built with purpose.</p>
+  </footer>
+</body>
+</html>
